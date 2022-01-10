@@ -1,0 +1,13 @@
+{
+  "Environments": [
+    {
+      "Name": "QA",
+      "Portals": [
+        {
+          "Name": "PRODUCT STORE",
+          "BaseLoginUrl": "https://www.demoblaze.com/index.html"
+        }
+      ]
+    }
+  ]
+}
